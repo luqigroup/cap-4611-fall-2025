@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "CAP 4611"
+  title: "CAP 4611 (Fall 2025)"
   google-analytics: "G-VCVVD4KWRF"
   search: false
   favicon: files/TheTab_KGrgb_square.png
@@ -15,9 +15,9 @@ website:
       - text: \[Made with Quarto\]
         href: https://quarto.org
       - text: \[Source\]
-        href: https://github.com/luqigroup/cap-4611
+        href: https://github.com/luqigroup/cap-4611-fall-2025
       - text: \[License\]
-        href: https://raw.githubusercontent.com/luqigroup/cap-4611/refs/heads/main/LICENSE
+        href: https://raw.githubusercontent.com/luqigroup/cap-4611-fall-2025/refs/heads/main/LICENSE
 
 format:
   html:
