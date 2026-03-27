@@ -1,1 +1,1 @@
-Sitemap: https://github.com/luqigroup/cap-4611/sitemap.xml
+Sitemap: https://luqigroup.github.io/cap-4611-fall-2025/sitemap.xml
